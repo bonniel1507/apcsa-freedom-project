@@ -9,6 +9,11 @@ The blank poker cards serves like a placeholder and then when the game start the
 
 ![img](photos/photobg.png)
 
+This first took me a while to do so. First, in preview the cards were significantly large and only appear in the lower right corner. It's not replacing the blank cards and in the behavior, it did not have the action for the cards to 'fly_in'. I saw a blue add behavior button at the button, but I clicked on it several times and there's nothing happening. So, I Google searched up how to add a behavior. Thank God there's I found it in 1 search, otherwise I'll be stuck on this one step for longer.
+
+The problem is that in preview, the back of the cards were very small. I adjusted the size when placing the cards, but it's not showing. I checked that the pixel were only 100x88 and maybe because it's the second animation of the front of the card, so the size didn't apply.
+
+I had it show the front a few times because I want to check did it shuffle, but it's showing only one card and it's the same card every time, so I assume it was not random at all.
 
 ### EDP and Skills
 
