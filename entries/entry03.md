@@ -3,13 +3,13 @@
 
 ### Content
 
-Me and my teammates had decided ro work separately on the mini games because there will be conflicts when saving if we worked on the same game but different computers. So, my mini game idea was matching the cards. The user will click on the card, it will flip and find a pair. I first imagined the game is on a table, so I used a background that's like a table and poker cards on top.
+Me and my teammates had decided to work separately on the mini games because [GDevelop](https://editor.gdevelop.io/) will have conflicts when saving if we worked on the same game but different computers. So, my mini game idea was matching the cards. The user will click on the card, it will flip and find a pair. I first imagined the game is on a table, so I used a background that's like a table and poker cards on top.
 
 The blank poker cards serves like a placeholder and then when the game start the poker cards under the card deck it will shuffle and replace the blank cards. The blank cards and the card deck will be deleted and only shows the back of the cards.
 
 <img src="photos/photos1.png" width = 500>
 
-This first took me a while to do so. First, in preview the cards were significantly large and only appear in the lower right corner. It's not replacing the blank cards and in the behavior, it did not have the action for the cards to 'fly_in'. I saw a blue add behavior button at the button, but I clicked on it several times and there's nothing happening. So, I Google searched up how to add a behavior. Thank God there's I found it in 1 search, otherwise I'll be stuck on this one step for longer.
+This first took me a while to do so. First, in preview the cards were significantly large and only appear in the lower right corner. It's not replacing the blank cards and in the behavior, it did not have the action for the cards to 'fly_in'. I saw a blue add behavior button at the button, but I clicked on it several times and there's nothing happening. So, I Google searched up [how to add a behavior](https://wiki.gdevelop.io/gdevelop5/behaviors). Thank God there's I found it in 1 search, otherwise I'll be stuck on this one step for longer.
 
 The repeat for each instance is like a loop that for every place holder card. The tween the position will allow the cards to move towards the position of the place holders. 'Cards' is an object group that I placed all the playing cards in the group, so there's no need for the same code for every different playing card. The pick a random like it sounds a random card will fly to the placeholder. The cards were all facing down, so to check was it really random, I change to the "front", but it's showing only one card and it's the same card every time I preveiw, so I assume it was not random at all.
 
