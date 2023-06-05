@@ -5,7 +5,7 @@ by Bonnie Lei
 The “Freedom Project” for APCSA is all about creating anything we desire. The purpose of this blog is to track my progress throughout this year.
 
 ## Content
-For my project, I am making mini games. This blog will walk through my process of independently studying GDevelop in order to make the games.
+For my project, I am making mini games. This blog will walk through my process of independently studying GDevelop in order to make the games. GDevelop is a game making platform. Usually you only create 1 game for each project,but we decided to put all ours together in one project. For me there's lots of restarting because some tutorials were very out of dated and had to find new ones to watch.
 
 ## Links
 
@@ -14,7 +14,8 @@ For my project, I am making mini games. This blog will walk through my process o
 [Presentation](https://docs.google.com/presentation/d/18SfQWYNKy7jik_4suVJHl-IVrZS0XAEGqawleiPXsUg/edit?usp=sharing_eil_m&ts=645bcb4f)
 
 ## Implications
-This game can help people who gets bored and have fun.
+This game can help people who gets bored and have fun. There's 3 mini games on this project, so it have more options for our user to choose.
+On the other hand, people may just be spending too much time on the game and neglect other task, like homework and chores. It's meant to keep people from bored, but they may still plays it no matter what.
 
 ---
 
