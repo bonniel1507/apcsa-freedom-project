@@ -2,19 +2,19 @@
 by Bonnie Lei
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about creating anything we desire. The purpose of this blog is to track my progress throughout this year.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making mini games. This blog will walk through my process of independently studying GDevelop in order to make the games.
 
 ## Links
 
-Product
+[Product](https://gd.games/instant-builds/2fc6c59d-9a7b-4fda-9fd2-faac702910cb)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/18SfQWYNKy7jik_4suVJHl-IVrZS0XAEGqawleiPXsUg/edit?usp=sharing_eil_m&ts=645bcb4f)
 
 ## Implications
-X
+This game can help people who gets bored and have fun.
 
 ---
 
